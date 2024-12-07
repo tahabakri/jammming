@@ -1,0 +1,12 @@
+.SearchResults {
+    width: 50%;
+    padding: 1.5rem;
+    background-color: rgba(1, 12, 63, 0.7);
+    margin-right: 1rem;
+    border-radius: 10px;
+}
+
+.SearchResults h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
